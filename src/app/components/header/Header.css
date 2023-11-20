@@ -1,0 +1,13 @@
+.cabecalho{
+    background-color: #66FF99;
+    height: 50px;
+  
+  }
+  
+  .ecohealth{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    justify-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
